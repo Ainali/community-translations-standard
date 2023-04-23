@@ -2,69 +2,66 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 ---
-# Readers guide
+# Läsguide
 
-The Standard describes a number of criteria.
-All criteria have consistent sections that make it clear how to create great public code.
+Standarden beskriver ett antal kriterier.
+Alla kriterieer har likadana stycken som gör det tydligt hur man gör utmärkt offentlig kod.
 
-References to "policy makers", "managers", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
-It is common for individuals to have duties which span multiple roles.
+Referenser till "policyskapare", "chefer", och "utvecklare och designers" gäller för alla som utför uppgifter relaterade till dessa roller oavsett vilken titel de har.
+Det är vanligt att individer utför uppgifter som passar in i flera av rollerna.
 
-Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
+Nedan finns en kort förklaring för vart och ett av dessa stycken och hur de används i Standarden.
 
-## Introduction
+## Introduktion
 
-This section explains what the criterion aims to achieve and why it is important for a codebase's users and contributors.
+Detta stycke förklarar vad kriteriet försöker uppnå och varför det är viktigt för kodbasens användare och bidragsgivare.
 
-## Requirements
+## Krav
 
-This section lists what needs to be done in order to comply with the standard.
+Detta stycke räknar upp vad som behöver göras för att uppfylla standarden.
 
-The following keywords in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119):
+Följande nyckelord i detta dokument ska tolkas så som de beskrivs i [IETF RFC 2119](https://tools.ietf.org/html/rfc2119):
 
-* MUST
-* MUST NOT
-* REQUIRED
-* SHALL
-* SHALL NOT
-* SHOULD
-* SHOULD NOT
-* RECOMMENDED
-* MAY
-* OPTIONAL
+* SKALL
+* SKALL INTE
+* BÖR
+* BÖR INTE
+* REKOMMENDERAS
+* KAN
+* VALFRI
 
-## What this does not do
+## Vad denna inte gör
 
-This section manages expectations by explaining what following the requirements will not save you from.
+Detta stycke hanterar förväntningar genom att förklara vad kravuppfyllnad inte kommer att rädda dig från.
 
-This helps:
+Detta hjälper till att:
 
-* with applying the Standard correctly
-* make sure no unexpected things pop up
+* applicera Standarden korrekt
+* säkerställa att inga oväntade saker dyker upp
 
-## How to test
+## Testa så här
 
-This section offers actions you can take to see if a contribution is compliant with the Standard.
-This is key if you want to operationalize the Standard.
+Detta stycke erbjuder sätt för dig att se om ett bidrag följer Standarden.
+Detta är viktigt om du vill operationalisera Standarden.
 
-We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
+Vi har försökt att skriva dem så att även någon som inte är nära bekant med ämnet fortfarande kan göra en grundläggande kontrolll om uppfyllnad.
 
-## Public policy makers: what you need to do
+## Skapare av offentlig policy: vad du behöver göra
 
-This section tries to specifically speak to policy makers by offering them concrete actions they can perform in their role.
+Detta stycke försöker att specifikt tala till policyskapare genom att erbjuda konkreta handlingar de kan utföra i sin roll.
 
-Public policy makers set the priorities and goals of projects and may be less technologically experienced.
+Skapare av offentlig policy sätter prioriteringar och mål för projekt och kan ha mindre teknisk erfarnhet.
 
-## Managers: what you need to do
+## Chefer: vad du behöver göra
 
-This section tries to specifically speak to managers by offering concrete actions they can perform in their role.
+Detta stycke försöker att specifikt tala till chefer genom att erbjuda konkreta handlingar de kan utföra i sin roll.
 
-Managers are responsible for on-time project delivery, stakeholder management and continued delivery of the service.
-For this they are wholly reliant on both policy makers as well as developers and designers.
-They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
+Chefer ansvarar för att leverera projekt i tid, hantera intressenter och leverera fungerande tjänster.
+För detta är de helt beroende både av policyskapare likväl som utvecklare och designers.
+De behöver skapa rätt kultur, hitta rätt resurser och tillhandahålla rätt strukturer för att leverera utmärkta tjänster.
 
-## Developers and designers: what you need to do
+## Utvecklare designers: vad du behöver göra
 
-This section tries to specifically speak to developers and designers by offering them concrete actions they can perform in their role.
+Detta stycke försöker att specifikt tala till utvecklare och designers genom att erbjuda konkreta handlingar de kan utföra i sin roll.
 
-Developers are usually more technically aligned and have more impact on the delivery of services than the previous groups.
+Utvecklare är vanligtvis mer tekniskt kunniga och har mer påverkan på service leveransen än de tidigare grupperna.

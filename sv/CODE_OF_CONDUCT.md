@@ -1,15 +1,15 @@
-# Code of Conduct
+# Uppförandekod
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2021-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
-Many community members are from civic or professional environments with behavioral codes yet some individuals are not.
-This document expresses expectations of all community members and all interactions regardless of communication channel.
+Många communitymedlemmar kommer från offentliga eller professionella sammanhang med krav på uppförande medans andra individer inte för det.
+Detta dokument sätter förväntningar på alla communitymedlemmar och alla interaktioner oavsett kommunikationskanal.
 
-Be here to collaborate.
+Var här för att samarbeta.
 
-Be considerate, respectful, and patient.
+Var omtänksam, respektfull och tålmodig.
 
-Strive to be as constructive as possible.
+Sträva efter att vara så konstruktiv som möjlig.
 
-To raise a concern, please email directors@publiccode.net.
+Om du har synpunkter, mejla directors@publiccode.net.
